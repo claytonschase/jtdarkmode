@@ -42,6 +42,12 @@
     border-radius: 4px !important;
 }
 
+/* Show more */
+.from-white {
+    --tw-gradient-from: var(--color-white);
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), #232323 var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+
 /* === Background Colors === */
 .bg-white {
     background-color: #2c2c2c !important;

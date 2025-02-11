@@ -2,6 +2,8 @@
 
 A simple CSS file that enables dark mode styling for [JobTread](https://www.jobtread.com/).
 
+![alt text](/screenshot.jpg)
+
 ## Features
 
 - Dark mode styling for JobTread UI

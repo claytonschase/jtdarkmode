@@ -114,10 +114,6 @@
     color: #f7f7f7;
 }
 
-.uppercase {
-    color: #f7f7f7 !important;
-}
-
 /* === Shadow Styles === */
 .shadow-line-right {
     box-shadow: 1px 0 0 #464646;

@@ -114,9 +114,12 @@
     color: #f7f7f7;
 }
 
-/* === Should select certain CSS descriptions on documents === */
 .sticky.uppercase {
     color: #f9f9f9 !important;
+}
+
+.break-inside-avoid .uppercase {
+    color: #dfdfdf !important;
 }
 
 /* === Shadow Styles === */

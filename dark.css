@@ -85,6 +85,10 @@
     background-color: color-mix(in oklab, oklch(0.2 0 0) 80%, transparent);
 }
 
+.focus\:bg-white:focus {
+    background-color: #4b4b4b;
+}
+
 /* === Text Colors === */
 .text-gray-500 {
     color: #8f8f8f;

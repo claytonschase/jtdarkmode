@@ -48,10 +48,6 @@
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), #232323 var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
 }
 
-.shadow-sm.font-bold {
-    border: none !important;
-}
-
 /* === Background Colors === */
 .bg-white {
     background-color: #2c2c2c;
@@ -93,6 +89,10 @@
     background-color: #4b4b4b;
 }
 
+.shadow-sm.font-bold {
+    border: none !important;
+}
+
 /* === Text Colors === */
 .text-gray-500 {
     color: #8f8f8f;
@@ -126,7 +126,7 @@
     color: #f9f9f9 !important;
 }
 
-.break-inside-avoid .uppercase {
+.break-inside-avoid .uppercase, .space-x-2 .uppercase {
     color: #dfdfdf !important;
 }
 
